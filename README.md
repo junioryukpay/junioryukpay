@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning on programming.
 - 💬 Ask me about Telegram Bot
-- 📫 Contact me on: [Telegram](https://t.me/pranata_11)
+- 📫 Contact me on: [Telegram](https://t.me/Dityageng)
 
 
 <p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/></p>
@@ -33,3 +33,9 @@
 </picture>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/junioryukpay/junioryukpay/output/snake.svg" alt="Snake animation" />
