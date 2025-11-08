@@ -8,13 +8,13 @@
 <p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/></p>
 
 ## My Stats
-![Verdu-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdudev&show_icons=true&theme=algolia)
+![Verdu-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=junioryukpay&show_icons=true&theme=algolia)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdudev&layout=compact&theme=algolia)](https://github.com/verdudev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junioryukpay&layout=compact&theme=algolia)](https://github.com/junioryukpay/)
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=verdudev)
+![](https://visitor-badge.laobi.icu/badge?page_id=junioryukpay)
 
 ## Language & Tools
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
