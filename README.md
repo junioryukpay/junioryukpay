@@ -40,9 +40,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
-###
 
-###
+
+### :D
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/junioryukpay/junioryukpay/output/snake.svg" alt="Snake animation" />
