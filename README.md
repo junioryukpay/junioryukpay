@@ -42,7 +42,7 @@
 </div>
 
 
-### :D
+## :D
 
 <img src="https://raw.githubusercontent.com/junioryukpay/junioryukpay/output/snake.svg" alt="Snake animation" />
 
