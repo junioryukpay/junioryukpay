@@ -32,6 +32,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/junioryukpay/junioryukpay/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/junioryukpay/junioryukpay/output/snake.svg" alt="Snake animation" />
